@@ -7,18 +7,18 @@
 
 # Faculty pages
 
-### [Dipankar Bandyopadhyay](https://github.com/bandyopd)
+### Dipankar Bandyopadhyay
 
 https://github.com/bandyopd
 
-### [Shanshan Chen](https://github.com/ShanshanChen-Biostat)
+### Shanshan Chen
 
 https://github.com/ShanshanChen-Biostat
 
-### [Mikhail Dozmorov](https://github.com/mdozmorov)
+### Mikhail Dozmorov
 
 https://github.com/mdozmorov
 
-### [Nolan Wages](https://github.com/wagesn)
+### Nolan Wages
 
 https://github.com/wagesn
